@@ -1,3 +1,3 @@
 Student ID : 010825670
-Angular Version: 
+Angular Version: 19.2.5
 
